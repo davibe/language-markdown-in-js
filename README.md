@@ -2,7 +2,7 @@
 
 Atom markdown highlighting for [markdown-in-js](https://github.com/threepointone/markdown-in-js)
 
-[!example](example.png)
+![example](example.png)
 
 #### Credits
 
