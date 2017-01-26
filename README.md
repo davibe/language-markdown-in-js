@@ -6,4 +6,4 @@ Atom markdown highlighting for [markdown-in-js](https://github.com/threepointone
 
 #### Credits
 
-[Tim](https://github.com/timneutkens) for holding my hand.
+Thx [Tim](https://github.com/timneutkens), for holding my hand.
