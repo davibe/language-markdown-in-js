@@ -1,0 +1,12 @@
+{
+  "name": "language-markdown-in-js",
+  "version": "1.0.0",
+  "description": "markdown-in-js syntax highlighting",
+  "main": "index.js",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": "davibe/language-markdown-in-js",
+  "author": "Davide Bertola <dade@dadeb.it>",
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+'name': 'Styled jsx'
+'scopeName': 'styled-jsx'
+'fileTypes': ['']
+'injectionSelector': 'source.js'
+'patterns': [
+  {
+    'begin': '(markdown)`'
+    'captures':
+      '0':
+        'name': 'punctuation.definition.tag.html'
+    'end': '`'
+    'name': 'source.markdown.embedded.jsx'
+    'patterns': [
+        {
+          'include': '#embedded-code'
+        }
+        {
+          'include': 'text.md'
+        }
+    ]
+  }
+]
